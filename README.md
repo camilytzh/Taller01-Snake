@@ -10,3 +10,6 @@ Integrante 2
 
 ![image](https://github.com/user-attachments/assets/5ca90a12-4165-4a5b-8112-c577fed6a57d)
 
+Integrante 3
+
+![image](https://github.com/user-attachments/assets/5e495774-ce14-448f-b234-d6dd5d5247fa)
